@@ -24,6 +24,7 @@ TMRpcm tmrpcm;
 boolean goodToGo = false;
 
 String wavs[] = {"maus.wav", "fail.wav", "drama.wav", "niete.wav", "mario.wav", "fail.wav", "duell.wav", "sesam.wav","drama.wav", "homer.wav", "prank.wav", "neindochoh.wav","mario.wav", "niete.wav", "fail.wav", "neindochoh.wav", "drama.wav", "mario.wav", "mario.wav",  "fail.wav", "niete.wav"};
+/* make sure that the .wav files on your SD card are named according to this string!*/
 uint8_t num_wavs = 21;
 uint8_t wav_now = 0;
 
