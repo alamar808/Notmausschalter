@@ -12,3 +12,7 @@ Bill of Materials:
 - USB cable to charge the battery
 - additional cables, solder, soldering iron
 - calm hands and a humble soul
+
+
+here is a quite similar project including a wiring scheme. The bigger challenge is to get everything into that tiny buzzer housing ;-P
+http://www.electronoobs.com/eng_arduino_tut8_1.php
